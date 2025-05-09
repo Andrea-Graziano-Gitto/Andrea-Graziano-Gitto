@@ -1,7 +1,7 @@
 # About Me
 
 Hello! 👋  
-I am a **19-year-old Indie Game Developer** from Italy, currently studying at **H-Farm College** in Roncade (VE).  
+I am a **29-year-old Indie Game Developer** from Italy, currently studying at **H-Farm College** in Roncade (VE).  
 I have a passion for creating digital experiences and experimenting with game development.
 
 You can check out my work on the following platforms:
